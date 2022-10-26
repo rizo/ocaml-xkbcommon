@@ -4,7 +4,7 @@ authors: "Armael <armael@isomorphis.me>"
 homepage: "https://github.com/Armael/ocaml-xkbcommon"
 bug-reports: "https://github.com/Armael/ocaml-xkbcommon/issues"
 depends: [
-#  "conf-xkbcommon"
+  "conf-xkbcommon"
   "ocaml" {>= "4.04.1"}
   "ctypes"
   "ctypes-foreign"
